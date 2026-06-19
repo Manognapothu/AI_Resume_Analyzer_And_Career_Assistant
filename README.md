@@ -194,11 +194,10 @@ Dashboard → Project Settings → Environment Variables → ANTHROPIC_API_KEY
 
 ## 📸 Screenshots
 
-| Landing Page | Analysis Dashboard | Career Assistant |
-|---|---|---|
-| Hero section with upload CTA | ATS score ring + skill tags | Role roadmap + interview tips |
+> deploy link: [your-project-name.vercel.app](https://ai-resume-analyzer-mu-henna.vercel.app/)
 
 ---
+
 
 ## 🤝 Contributing
 
