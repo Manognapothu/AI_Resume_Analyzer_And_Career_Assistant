@@ -3,7 +3,7 @@
 > **Analyze your resume, improve your ATS score, identify missing skills, and get personalized career recommendations — in seconds.**
 
 ![Project Banner](https://img.shields.io/badge/AI-Powered-6366F1?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](https://github.com/Manognapothu/AI_Resume_Analyzer_And_Career_Assistant.git/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](https://github.com/Manognapothu/AI_Resume_Analyzer_And_Career_Assistant/blob/main/LICENSE)
 [![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://ai-resume-analyzer-mu-henna.vercel.app/)
 [![Built For](https://img.shields.io/badge/Built%20for-Digital%20Heroes-F59E0B?style=for-the-badge)](https://digitalheroesco.com)
 
