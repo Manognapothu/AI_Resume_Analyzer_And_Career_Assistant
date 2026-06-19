@@ -194,7 +194,7 @@ Dashboard → Project Settings → Environment Variables → ANTHROPIC_API_KEY
 
 ## 📸 Screenshots
 
-> deploy link: [your-project-name.vercel.app](https://ai-resume-analyzer-mu-henna.vercel.app/)
+> deploy link: [AI_Resume_Analyzer_And_Career_Assistant.vercel.app](https://ai-resume-analyzer-mu-henna.vercel.app/)
 
 ---
 
